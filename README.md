@@ -84,8 +84,7 @@ You are advised to review this Privacy Policy periodically for any changes.
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us:
 
-- Email: **[your-email-here@example.com]** (replace with real email if you have one)
-- GitHub: https://github.com/[your-username]/AutoTap (or wherever your repo is)
+- Email: ahmed.andreas.maroof@gmail.com
 
 ---
 
